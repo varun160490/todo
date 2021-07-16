@@ -1,14 +1,14 @@
 # This is a Todo Application using React.JS and Firebase NoSQL database
 
-### Application:
+## Application:
 
 ![Application](images/ToDo.png)
 
-### Application Architecture:
+## Application Architecture:
 
 ![Application Architecture](images/TodoApp.png)
 
-### Components used in the Application:
+## Technologies used in the Application:
 
 1. ReactJS - React is a free and open-source front-end JavaScript library for building user interfaces or UI components.
 
